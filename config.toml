@@ -1,0 +1,34 @@
+languageCode = "en-us"
+title = "portocarodos"
+baseurl = "http://portocarodos.pt/"
+theme = "aerial"
+
+[params]
+  name = "portocarodos"
+  about = "Equipa de Regata em ORC"
+  copyright = "xani"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/portocarodos/"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/portocaro.dos"
+
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://www.instagram.com/portocarodos/"
+
+
+[[params.social]]
+  medium = "Youtube"
+  icon = "youtube"
+  link = "https://www.youtube.com/channel/UC6D7Ogkw37GpnSiixGTyuqA"
